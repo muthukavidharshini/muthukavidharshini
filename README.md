@@ -1,414 +1,209 @@
-# 💰 AI Expense Tracking Agent
+<h1 align="center">
+Hi 👋, I'm <span style="color:#7C3AED;">Muthukavi Dharshini M</span>
+</h1>
 
-<div align="center">
+<h3 align="center">
+🚀 Full Stack Developer | AI Enthusiast | CSBS Student
+</h3>
 
-![React](https://img.shields.io/badge/React-19-blue?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-Express-green?logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?logo=mongodb)
-![OpenAI](https://img.shields.io/badge/OpenAI-AI-black?logo=openai)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-4-38BDF8?logo=tailwindcss)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
-![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)
-
-### 🚀 AI-Powered Personal Finance Management Platform
-
-Track expenses • AI Insights • Receipt OCR • Voice Entry • Budget Planning • Smart Reports
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+MERN+Developer;MongoDB+%7C+React+%7C+Node.js;OpenAI+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-# 📌 Overview
+# 💜 About Me
 
-AI Expense Tracking Agent is a modern full-stack finance management platform designed to help users intelligently manage their personal finances.
+🎓 B.Tech Computer Science and Business Systems
 
-Unlike traditional expense trackers, this application integrates Artificial Intelligence to automate expense categorization, analyze spending habits, predict future expenses, provide savings recommendations, and generate financial reports.
+🏫 V.S.B Engineering College
 
-The application offers a premium SaaS-style user experience with a responsive interface and interactive analytics.
+💡 Passionate about AI, Full Stack Development & Cloud Computing
 
----
+🚀 Building intelligent web applications using AI
 
-# ✨ Features
+🌱 Currently learning
 
-## 🔐 Authentication
+- Agentic AI
+- MERN Stack
+- Docker
+- MongoDB Atlas
+- OpenAI API
 
-- User Registration
-- Secure Login
-- JWT Authentication
-- Google Sign-In
-- Forgot Password
-- Profile Management
+🎯 Goal
 
----
-
-## 💳 Expense Management
-
-- Add Expenses
-- Edit Expenses
-- Delete Expenses
-- Search Expenses
-- Filter by Category
-- Sort Transactions
-- Upload Receipt Images
-- Payment Methods
-- Tags & Notes
+Become a Software Engineer and AI Developer
 
 ---
 
-## 💰 Income Management
+# 🚀 Featured Project
 
-- Salary
-- Freelancing
-- Business
-- Investments
-- Bonus
-- Other Income Sources
+## 💰 AI Expense Tracking Agent
 
----
+An AI-powered personal finance management platform that helps users intelligently manage income, expenses, budgets, and savings.
 
-## 📊 Dashboard
+### ✨ Features
 
-- Total Balance
-- Total Income
-- Total Expenses
-- Monthly Spending
-- Savings Overview
-- Financial Health Score
-- Budget Progress
-- Interactive Charts
-- Recent Transactions
+✅ AI Chat Assistant
 
----
+✅ Expense Tracking
 
-# 🤖 AI Features
+✅ Income Tracking
 
-### AI Expense Categorization
+✅ Budget Planning
 
-Automatically categorizes expenses using AI.
+✅ Financial Health Score
 
-Example
+✅ AI Insights
 
-```
-"I spent ₹450 at Domino's"
-```
+✅ Receipt OCR
 
-Automatically extracts:
+✅ Voice Expense Entry
 
-- Amount
-- Merchant
-- Category
-- Date
+✅ Expense Prediction
 
----
+✅ Smart Savings Suggestions
 
-### AI Finance Chat
+✅ Monthly Reports
 
-Ask questions like:
-
-- How much did I spend this month?
-- Show my biggest expenses.
-- Compare this month with last month.
-- Suggest savings.
-- Predict next month's spending.
-
----
-
-### Receipt OCR
-
-Upload receipt images.
-
-Automatically extracts:
-
-- Merchant
-- Amount
-- Date
-- Tax
-- Items
-
-Creates expense entries automatically.
-
----
-
-### Voice Expense Entry
-
-Users can say:
-
-```
-"I spent ₹300 on petrol"
-```
-
-The application converts speech into an expense.
-
----
-
-### Smart Financial Insights
-
-AI generates insights such as:
-
-- Highest spending category
-- Monthly comparison
-- Spending trends
-- Savings opportunities
-- Budget analysis
-
----
-
-### Expense Prediction
-
-Predicts future expenses using historical spending.
-
----
-
-### Savings Advisor
-
-Provides personalized savings recommendations.
-
----
-
-### Financial Health Score
-
-Calculates a score based on:
-
-- Spending habits
-- Budget usage
-- Savings rate
-- Income vs Expenses
-
----
-
-### Smart Notifications
-
-- Budget alerts
-- Bill reminders
-- Subscription renewals
-- Goal reminders
-- Large transaction alerts
-
----
-
-# 🧠 AI Agent Architecture
-
-The application includes specialized AI agents.
-
-- Expense Agent
-- Budget Agent
-- Analytics Agent
-- Forecast Agent
-- Savings Advisor Agent
-- Receipt OCR Agent
-- Voice Assistant Agent
-- Report Generator Agent
-- Notification Agent
-- AI Chat Agent
+✅ Interactive Dashboard
 
 ---
 
 # 🛠 Tech Stack
 
-## Frontend
+### Languages
 
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- Framer Motion
-- Recharts
-- Axios
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 
-## Backend
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-- Node.js
-- Express.js
-- TypeScript
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 
-## Database
-
-- MongoDB Atlas
-- Mongoose
-
-## Authentication
-
-- JWT
-- Google OAuth
-
-## AI
-
-- OpenAI API
-
-## Storage
-
-- Cloudinary
-
-## Deployment
-
-- Docker
-- Docker Compose
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
 ---
 
-# 📂 Project Structure
+### Frontend
 
-```
-financepro/
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   ├── Dockerfile
-│   └── package.json
-│
-├── backend/
-│   ├── controllers/
-│   ├── routes/
-│   ├── models/
-│   ├── middleware/
-│   ├── services/
-│   ├── Dockerfile
-│   └── package.json
-│
-├── docker-compose.yml
-├── README.md
-└── .env.example
-```
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+
+![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite)
 
 ---
 
-# ⚙️ Installation
+### Backend
 
-## Clone Repository
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 
-```bash
-git clone https://github.com/yourusername/financepro.git
-
-cd financepro
-```
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
 ---
 
-## Install Frontend
+### Database
 
-```bash
-cd frontend
-
-npm install
-
-npm run dev
-```
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
 ---
 
-## Install Backend
+### AI
 
-```bash
-cd backend
+OpenAI API
 
-npm install
+OCR
 
-npm run dev
-```
+Speech Recognition
 
----
-
-# 🔑 Environment Variables
-
-Create a `.env` file inside the backend folder.
-
-```env
-PORT=5000
-
-MONGODB_URI=your_mongodb_connection_string
-
-JWT_SECRET=your_jwt_secret
-
-JWT_REFRESH_SECRET=your_refresh_secret
-
-OPENAI_API_KEY=your_openai_key
-
-GOOGLE_CLIENT_ID=your_google_client_id
-
-GOOGLE_CLIENT_SECRET=your_google_client_secret
-
-CLOUDINARY_CLOUD_NAME=your_cloud_name
-
-CLOUDINARY_API_KEY=your_api_key
-
-CLOUDINARY_API_SECRET=your_api_secret
-
-CLIENT_URL=http://localhost:5173
-```
+AI Agents
 
 ---
 
-# 🐳 Docker Deployment
+### Tools
 
-Build the project
+Git
 
-```bash
-docker compose build
-```
+GitHub
 
-Run the application
+Docker
 
-```bash
-docker compose up
-```
+VS Code
 
-Run in background
+Postman
 
-```bash
-docker compose up -d
-```
-
-Stop containers
-
-```bash
-docker compose down
-```
+Cloudinary
 
 ---
 
-# 📈 Future Enhancements
+# 📊 GitHub Stats
 
-- Investment Portfolio Tracking
-- AI Tax Assistant
-- Family Expense Sharing
-- Multi-Currency Support
-- UPI Integration
-- Email Reports
-- Mobile Application
-- AI Financial Coach
-- Offline Mode
-- Wearable Device Integration
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 🎯 Learning Outcomes
+# 🔥 GitHub Streak
 
-This project demonstrates:
+<p align="center">
 
-- Full Stack Development
-- MERN Stack
-- REST API Development
-- Authentication
-- MongoDB Integration
-- Docker Deployment
-- Artificial Intelligence Integration
-- OCR Processing
-- Voice Recognition
-- Responsive UI Design
-- SaaS Dashboard Development
-- Data Visualization
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 👨‍💻 Developer
+# 📈 Contribution Graph
 
-**Muthukavi Dharshini M**
+<p align="center">
 
-B.Tech – Computer Science and Business Systems
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
 
-V.S.B Engineering College
+</p>
 
 ---
 
-# ⭐ If you found this project useful, consider giving it a star on GitHub!
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+📧 Email
+
+your-email@gmail.com
+
+💼 LinkedIn
+
+https://linkedin.com/in/YOUR-LINKEDIN
+
+💻 GitHub
+
+https://github.com/YOUR_GITHUB_USERNAME
+
+---
+
+# 💡 Quote
+
+> "Code with purpose. Build with AI. Learn continuously."
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+🚀 Happy Coding
+
+</div>
