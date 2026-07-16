@@ -1,209 +1,203 @@
-<h1 align="center">
-Hi 👋, I'm <span style="color:#7C3AED;">Muthukavi Dharshini M</span>
-</h1>
+Create a GitHub Profile README exactly in the style of the reference profile I shared.
 
-<h3 align="center">
-🚀 Full Stack Developer | AI Enthusiast | CSBS Student
-</h3>
+Do NOT copy the text or images.
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+MERN+Developer;MongoDB+%7C+React+%7C+Node.js;OpenAI+Enthusiast;Always+Learning+New+Technologies" />
-</p>
+Instead, create a unique version using my details.
 
----
+The overall layout should be similar:
 
-# 💜 About Me
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🎓 B.Tech Computer Science and Business Systems
+👋 Large animated welcome heading
 
-🏫 V.S.B Engineering College
+Hi 👋, I'm Muthukavi Dharshini M
 
-💡 Passionate about AI, Full Stack Development & Cloud Computing
+Animated typing text below the heading.
 
-🚀 Building intelligent web applications using AI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🌱 Currently learning
+🧠 About Me
 
-- Agentic AI
-- MERN Stack
-- Docker
-- MongoDB Atlas
-- OpenAI API
+On the left:
 
-🎯 Goal
+• B.Tech CSBS Student at V.S.B Engineering College
+• Passionate Full Stack MERN Developer
+• AI & Generative AI Enthusiast
+• Building AI-powered web applications
+• Interested in Agentic AI, Cloud, Docker, MongoDB
+• Goal: Become a Software Engineer
 
-Become a Software Engineer and AI Developer
+On the right:
 
----
+Display a professional coding GIF.
 
-# 🚀 Featured Project
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 💰 AI Expense Tracking Agent
+🚀 Featured Project
 
-An AI-powered personal finance management platform that helps users intelligently manage income, expenses, budgets, and savings.
+Large attractive section
 
-### ✨ Features
+AI Expense Tracking Agent
 
-✅ AI Chat Assistant
+Explain the project beautifully.
 
-✅ Expense Tracking
+Include attractive icons.
 
-✅ Income Tracking
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-✅ Budget Planning
+🛠 Tech Stack
 
-✅ Financial Health Score
+Display beautiful badges exactly like professional GitHub profiles.
 
-✅ AI Insights
+Languages
 
-✅ Receipt OCR
+Java
 
-✅ Voice Expense Entry
+Python
 
-✅ Expense Prediction
+JavaScript
 
-✅ Smart Savings Suggestions
+TypeScript
 
-✅ Monthly Reports
+HTML
 
-✅ Interactive Dashboard
+CSS
 
----
+Frontend
 
-# 🛠 Tech Stack
+React
 
-### Languages
+Vite
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+Tailwind
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+Backend
 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+Node.js
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+Express
 
----
+Database
 
-### Frontend
+MongoDB Atlas
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
-
-![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite)
-
----
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
----
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-
----
-
-### AI
-
-OpenAI API
-
-OCR
-
-Speech Recognition
-
-AI Agents
-
----
-
-### Tools
+Tools
 
 Git
 
 GitHub
 
-Docker
-
 VS Code
+
+Docker
 
 Postman
 
 Cloudinary
 
----
+OpenAI
 
-# 📊 GitHub Stats
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<p align="center">
+📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+GitHub Stats Card
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+Top Languages
 
-</p>
+GitHub Streak
 
----
+Contribution Graph
 
-# 🔥 GitHub Streak
+GitHub Trophies
 
-<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+💻 Coding Profiles
 
-</p>
+LeetCode
 
----
+GeeksforGeeks
 
-# 📈 Contribution Graph
+HackerRank
 
-<p align="center">
+CodeChef
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-</p>
+📂 Featured Projects
 
----
+Beautiful cards for
 
-# 🏆 GitHub Trophies
+AI Expense Tracking Agent
 
-<p align="center">
+AI StudyVerse
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=6"/>
+PersonaLens AI
 
-</p>
+Banking Application
 
----
+AI Meeting Summarizer
 
-# 🌐 Connect with Me
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📧 Email
+📜 Certifications
 
-your-email@gmail.com
+Beautiful section.
 
-💼 LinkedIn
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-https://linkedin.com/in/YOUR-LINKEDIN
+🌱 Currently Learning
 
-💻 GitHub
+Docker
 
-https://github.com/YOUR_GITHUB_USERNAME
+Kubernetes
 
----
+LLMs
 
-# 💡 Quote
+Generative AI
 
-> "Code with purpose. Build with AI. Learn continuously."
+System Design
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<div align="center">
+📫 Contact Me
 
-⭐ Thanks for visiting my profile!
+GitHub
 
-🚀 Happy Coding
+LinkedIn
 
-</div>
+Email
+
+Portfolio
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Footer
+
+Animated Wave Footer
+
+Visitor Counter
+
+Quote
+
+"Build with AI. Learn continuously. Create meaningful software."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Requirements
+
+• Use only GitHub Markdown.
+• Make it look like a premium developer profile.
+• Use animated typing SVG.
+• Use GitHub Stats.
+• Use GitHub Streak.
+• Use GitHub Trophy.
+• Use Activity Graph.
+• Use modern shields.io badges.
+• Use a coding GIF on the right side of the About Me section.
+• Use centered headings.
+• Use clean separators.
+• Use a professional dark theme.
+• Make the README look similar in structure to the reference profile, but with my own content and branding.
+• Output a complete README.md ready to paste directly into GitHub.
