@@ -1,19 +1,19 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Muthukavi+Dharshini+M;Full+Stack+MERN+Developer;AI+%26+Generative+AI+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=700&lines=Hi+👋,+I'm+Muthukavi+Dharshini+M;Full+Stack+MERN+Developer;AI+%26+Generative+AI+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 ---
 
 ## 🧠 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
 
 - 👩‍💻 **B.Tech Computer Science and Business Systems Student** at **V.S.B Engineering College**.
 - 🚀 Passionate about **Full Stack MERN Development**, **Artificial Intelligence**, and **Cloud Technologies**.
-- 🌱 Currently mastering **React.js, Node.js, MongoDB, Docker, OpenAI API, and Agentic AI**.
-- 💡 Interested in solving real-world problems through innovative AI-powered applications.
-- 🎯 Building scalable, intelligent, and user-friendly web applications.
-- ✨ Fun fact: I love turning ideas into impactful software with AI.
+- 🌱 Currently learning **React.js, Node.js, MongoDB Atlas, Docker, OpenAI API, and Agentic AI**.
+- 💡 Interested in developing AI-powered applications that solve real-world problems.
+- 🎯 Aspiring Software Engineer with a strong interest in AI and Full Stack Development.
+- ✨ Fun Fact: I enjoy transforming ideas into intelligent software.
 
 ---
 
@@ -61,11 +61,11 @@
 
 ---
 
-### 🏆 LeetCode Progress
+## 🏆 LeetCode Progress
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Carrois%20Gothic&ext=heatmap" width="100%" />
+<img src="https://leetcard.jacoblin.cool/muthukavidharshinimuthu?theme=dark&font=Carrois%20Gothic&ext=heatmap" width="100%" />
 
 </p>
 
@@ -73,29 +73,33 @@
 
 ## 📂 Featured Projects
 
-| Project | Tech Stack | Repository |
-|:--------|:-----------|:-----------|
-| **🤖 AI Expense Tracking Agent** | React, Node.js, Express, MongoDB, OpenAI | https://github.com/YOUR_USERNAME/Expenses-tracking-agent |
-| **📚 AI StudyVerse – Flashcard & Quiz Generator** | React, FastAPI, MongoDB, OpenAI | https://github.com/YOUR_USERNAME/AI-StudyVerse |
-| **📝 AI Meeting Summarizer** | React, Python, OpenAI | https://github.com/YOUR_USERNAME/AI-meeting-summarizer |
-| **🏦 Banking Management System** | Java, MySQL | https://github.com/YOUR_USERNAME/banking |
-| **🧠 PersonaLens AI** | React, Python, MongoDB | https://github.com/YOUR_USERNAME/PersonaLens-AI-Endee-Project |
+| 🚀 Project | 💻 Tech Stack | 🔗 Repository |
+|:-----------|:--------------|:--------------|
+| **🤖 AI Expense Tracking Agent** | React, Node.js, Express, MongoDB, OpenAI | *(Coming Soon)* |
+| **📚 AI Powered Flashcard & Quiz Generator** | React, FastAPI, MongoDB, OpenAI | https://github.com/muthukavidharshini/AI-powered-flashcard-and-quiz-genartor |
+| **📝 AI Meeting Summarizer** | React, Python, OpenAI | https://github.com/muthukavidharshini/AI-meeting-summarizer |
+| **📰 AI Fake News Detector** | Python, Machine Learning | https://github.com/muthukavidharshini/AI-Fake-News-Detector |
+| **🏦 Banking Management System** | Java, MySQL | https://github.com/muthukavidharshini/banking |
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/muthukavidharshini">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/muthukavi-dharshini-m-869515346/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="https://leetcode.com/u/muthukavidharshinimuthu/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:muthukavidharshinimuthu@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -105,6 +109,16 @@
 
 <p align="center">
 
-<i>"Dream Big. Build with AI. Keep Learning. Keep Growing. 🚀"</i>
+### 💭 Quote
+
+> **"Dream Big. Build with AI. Keep Learning. Keep Growing. 🚀"**
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ **Thanks for visiting my profile!**
 
 </p>
